@@ -1,4 +1,4 @@
 learning experiment 1
 learning git merge
 learning git rebase
-new
+new changes are added
