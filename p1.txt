@@ -1,8 +1,6 @@
 learning experiment 1
 learning git merge
-<<<<<<< HEAD
 new
-=======
 learning git rebase
 new changes are added
->>>>>>> master
+
