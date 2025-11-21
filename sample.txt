@@ -1,2 +1,2 @@
 welcome to git
-learning git merge with commit message
+learning git merge with commit messagee
