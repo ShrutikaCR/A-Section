@@ -1,1 +1,6 @@
 learning experiment 2
+<<<<<<< HEAD
+learining git rebase
+=======
+learning experiment 3
+>>>>>>> e24d076 (new commit)
