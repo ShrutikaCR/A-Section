@@ -1,2 +1,4 @@
 welcome to git
 learning git merge with commit messagee
+learning experiment 6
+

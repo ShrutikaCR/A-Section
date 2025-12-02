@@ -1,7 +1,11 @@
 learning experiment 2
 learining git rebase
 learning experiment 3
+<<<<<<< HEAD
 learning rebase and pull
 learning how to merge with custom commit message
 learning experiment 6
 
+=======
+learning experiment 6
+>>>>>>> feature-branch
